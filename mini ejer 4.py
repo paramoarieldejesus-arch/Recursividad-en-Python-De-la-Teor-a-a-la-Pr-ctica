@@ -1,4 +1,4 @@
-#4
+#4 Caminos en un Tablero
 
 def contar_caminos(n, m):
     if n == 1 or m == 1:
