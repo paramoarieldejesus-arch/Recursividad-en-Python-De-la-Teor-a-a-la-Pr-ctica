@@ -1,4 +1,4 @@
-#3 
+#3 Imprimir Patrón
 
 def imprimir_patron(n):
     if n == 0:
