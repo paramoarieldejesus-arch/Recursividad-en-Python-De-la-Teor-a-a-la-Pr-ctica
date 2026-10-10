@@ -1,4 +1,4 @@
-#5
+#5 Flatten List
 
 def aplanar(lista):
     if len(lista) == 0:
