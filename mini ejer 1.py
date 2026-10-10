@@ -1,4 +1,4 @@
-#1
+#1 Multiplicación Rusa
 
 def multiplicar(a, b):
     if b == 0:
